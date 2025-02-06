@@ -79,7 +79,7 @@ a {
 /* #endregion Order Service button */
 
 /*#region describe*/
-.criteria-h-two {
+.base-h-two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -95,11 +95,9 @@ a {
   color: #2e2f42;
 }
 .criteria-p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 /*#endregion describe*/
 
@@ -111,14 +109,15 @@ a {
 .team-link {
   background-color: #fff;
 }
+
 .our-team {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2e2f42;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 /* #endregion Our Team */
 
