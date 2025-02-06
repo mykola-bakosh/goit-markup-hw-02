@@ -11,8 +11,7 @@ a {
   text-decoration: none;
 }
 /* #region header */
-.page-header {
-}
+
 .header-nav {
 }
 .logo {
@@ -83,7 +82,7 @@ a {
 
 /*#region describe*/
 
-.criteria-stile-h3 {
+.criteria-stile-htri {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
