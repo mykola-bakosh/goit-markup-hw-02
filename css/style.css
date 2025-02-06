@@ -12,8 +12,6 @@ a {
 }
 /* #region header */
 
-.header-nav {
-}
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -74,9 +72,9 @@ a {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.button-business:hover,
-.button-business:focus {
-  color: #404bbf;
+.button-business:focus,
+.button-business:hover {
+  background-color: #404bbf;
 }
 /* #endregion Order Service button */
 
